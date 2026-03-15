@@ -45,12 +45,12 @@ Installation
  PORT=5000
 
  Usage:
- Run Frontend
- cd frontend
- npm start
- Run Backend
- cd backend
- npm start
+  Run Frontend
+  cd frontend
+  npm start
+  Run Backend
+  cd backend
+  npm start
 
 Folder Structure:
 ClauseLens/
